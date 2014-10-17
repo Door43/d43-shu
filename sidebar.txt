@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[shu:home|Door43 (shu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-shu|d43-shu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-shu/archive/master.zip|d43-shu.zip]]
+
+**Recent Changes**
+{{changes>ns = shu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/shu|Ethnologue data]]
+
